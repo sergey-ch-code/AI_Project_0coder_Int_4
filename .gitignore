@@ -1,0 +1,26 @@
+# Зависимости
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Сборка / артефакты
+dist/
+build/
+out/
+*.log
+
+# Средовые и секреты
+.env
+.env.*
+*.local
+
+# IDE / ОС
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Koda
+.kodaignore
