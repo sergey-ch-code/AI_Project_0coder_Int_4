@@ -24,5 +24,8 @@ out/
 .DS_Store
 Thumbs.db
 
+# Личные файлы / заметки
+*.txt
+
 # Koda
 .kodaignore
