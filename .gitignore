@@ -15,6 +15,8 @@ out/
 .env
 .env.*
 *.local
+# ...но шаблон .env.example должен попадать в репозиторий
+!.env.example
 
 # IDE / ОС
 .vscode/
